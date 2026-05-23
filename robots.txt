@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /*.json$
+
+Host: https://mapgpu.dev
+Sitemap: https://mapgpu.dev/sitemap.xml
